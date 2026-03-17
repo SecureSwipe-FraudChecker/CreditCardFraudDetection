@@ -1,2 +1,14 @@
-# Credit-Card-Fraud-Detection
-Developed a Credit Card Fraud Detection system using Python and Machine Learning. Addressed extreme class imbalance in the Kaggle dataset using the SMOTE technique to improve fraud detection. Trained a Random Forest Classifier which successfully identified fraudulent transactions with high precision and recall, documented in the attached matrix.
+# Credit Card Fraud Detection Internship Project
+
+## Project Overview
+This project uses Machine Learning to identify fraudulent credit card transactions. 
+I worked with a highly imbalanced dataset and applied AI techniques to ensure 
+legitimate customers aren't wrongly flagged.
+
+## Key Features
+* **Data Cleaning:** Handled missing values and scaled transaction amounts.
+* **SMOTE:** Applied Synthetic Minority Over-sampling to balance the data.
+* **Algorithm:** Used Random Forest Classifier for high-accuracy predictions.
+
+## Tools Used
+* Python, Pandas, Scikit-learn, Google Colab
