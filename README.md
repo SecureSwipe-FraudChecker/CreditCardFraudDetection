@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection Internship Project
+# Credit Card Fraud Detection Project
 
 ## Project Overview
 This project uses Machine Learning to identify fraudulent credit card transactions. 
